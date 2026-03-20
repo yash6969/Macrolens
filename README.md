@@ -1,5 +1,7 @@
 # Macrolens (Macro Regime Simulator)
 
+🌐 **Live Demo:** [https://yash6969.github.io/Macrolens/](https://yash6969.github.io/Macrolens/)
+
 Macrolens is a React-based visual dashboard designed to model macroeconomic environments and highlight sector-specific investment regimes. By adjusting global economic levers (Growth, Inflation, Rates, and Liquidity), users can simulate top-down market conditions and watch the simulator dynamically assign the current market strategy (e.g., Goldilocks, Stagflation, Overheating, or Deflation).
 
 ## ✨ Features
